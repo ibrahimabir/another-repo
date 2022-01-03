@@ -1,0 +1,48 @@
+.intro{
+    text-align: center;
+    color: white;
+    background-color: gray;
+    border: 2px solid rgb(250, 2, 2);
+    padding:15%;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    border-radius: 2px;
+    }
+    .second-intro{
+        display: inline-flex ;
+        flex-direction: column;
+        font-display: 10px;
+        background-color: blue;
+    }
+    .main{
+        color: white;
+        background-color: rgb(119, 119, 218);
+        border: 2px solid blue ;
+        padding: 5% 10% 5% 5%;
+    
+    }
+    .text{
+        text-align: left;
+    }
+    .img{
+        align-items:flex-end;
+    }
+    .contact{
+        color: red;
+    background-color: gray;
+    border: 2px solid black;
+    padding: 5% 10% 5% 5%;
+    }
+    #comment{
+        text-align: center;
+        color: yellowgreen;
+        background-color: turquoise;
+        border: 2px dotted green;
+        margin: 5px 4px 10px 5px;
+        padding: 5px;
+    }
+    .span{
+        text-align: right;
+        color: rgb(247, 162, 6);
+    }
